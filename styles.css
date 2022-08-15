@@ -162,9 +162,9 @@ body {
 }
 
 .shirt {
-  font: bold 25px Helvetica, sans-serif;
-  top: 165px;
-  left: 127.5px;
+  font: bold 20px Helvetica, sans-serif;
+  top: 180px;
+  left: 115px;
   z-index: 1;
   color: #6a6969;
 }
