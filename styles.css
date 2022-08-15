@@ -169,10 +169,8 @@ body {
   color: #6a6969;
 }
 
-.shirt div {
-  font-weight:  initial;
-  top: 22.5px;
-  left: 12px;
+.shirt ' {
+  width: 90px;
 }
 
 .penguin-body {
